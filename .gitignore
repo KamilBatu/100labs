@@ -14,3 +14,8 @@ staticfiles/
 # Virtualenv
 .venv/
 venv/
+
+# Binaries
+*.exe
+100labs.exe
+public/100labs.exe
