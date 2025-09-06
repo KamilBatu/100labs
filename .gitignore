@@ -1,6 +1,5 @@
 # Environment
 .env
-*.exe
 db.sqlite3
 staticfiles/
 # Python
